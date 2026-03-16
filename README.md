@@ -19,14 +19,14 @@
 
 <!-- ====== PROFILE BADGES ====== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quocchienn&style=for-the-badge&color=ff6e96&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dungnguyen0537&style=for-the-badge&color=ff6e96&label=PROFILE+VIEWS" alt="profile views" />
   &nbsp;
-  <a href="https://github.com/quocchienn?tab=followers">
-    <img src="https://img.shields.io/github/followers/quocchienn?style=for-the-badge&color=bd93f9&labelColor=1a1b27&logo=github" alt="followers" />
+  <a href="https://github.com/dungnguyen0537?tab=followers">
+    <img src="https://img.shields.io/github/followers/dungnguyen0537?style=for-the-badge&color=bd93f9&labelColor=1a1b27&logo=github" alt="followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/quocchienn?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/quocchienn?style=for-the-badge&color=f8d866&labelColor=1a1b27&logo=github" alt="total stars" />
+  <a href="https://github.com/dungnguyen0537?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/dungnguyen0537?style=for-the-badge&color=f8d866&labelColor=1a1b27&logo=github" alt="total stars" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@
 
 ```yaml
 name: DShinee.Dev
-location: Phú Thọ, Vietnam 🇻🇳
-role: iOS Developer | Full-Stack Builder | Jailbreak Specialist
+location: Nghe An, Vietnam 🇻🇳
+role: iOS Developer | Full-Stack Builder 
 
 currently_working_on:
   - iOS Jailbreak & Crack Projects
@@ -52,24 +52,24 @@ passions:
   - ☁️ Cloud Infrastructure & DevOps
 
 contact:
-  facebook: QuocChien2709
-  telegram: QuocChienn
-  zalo: "84385531007"
-  blog: shadowrocketcrackappios.blogspot.com
+  facebook: dn.12th7
+  telegram: @dshinee0537
+  zalo: "0833685262"
+  blog: dshinee.site
 ```
 
 <!-- ====== SOCIAL LINKS ====== -->
 <p align="center">
-  <a href="https://www.facebook.com/QuocChien2709" target="_blank">
+  <a href="https://www.facebook.com/dn.12th7" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://t.me/QuocChienn" target="_blank">
+  <a href="https://t.me/dshinee0537" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://zalo.me/84385531007" target="_blank">
+  <a href="https://zalo.me/0833685262" target="_blank">
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
   </a>
-  <a href="https://shadowrocketcrackappios.blogspot.com" target="_blank">
+  <a href="https://dshinee.site" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
@@ -116,13 +116,13 @@ contact:
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=quocchienn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dungnguyen0537&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
   &nbsp;
-  <img width="49%" src="https://streak-stats.demolab.com?user=quocchienn&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=dungnguyen0537&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocchienn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungnguyen0537&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
@@ -131,13 +131,13 @@ contact:
 <h2 align="center">📈 Profile Summary</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quocchienn&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dungnguyen0537&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quocchienn&theme=radical" alt="Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dungnguyen0537&theme=radical" alt="Stats" />
   &nbsp;
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quocchienn&theme=radical&utcOffset=7" alt="Productive Time" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dungnguyen0537&theme=radical&utcOffset=7" alt="Productive Time" />
 </p>
 
 ---
@@ -146,7 +146,7 @@ contact:
 <h2 align="center">📉 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quocchienn&theme=radical&hide_border=true&area=true&custom_title=DShinee.Dev%20Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dungnguyen0537&theme=radical&hide_border=true&area=true&custom_title=DShinee.Dev%20Contribution%20Graph" alt="Activity Graph" />
 </p>
 
 ---
@@ -155,7 +155,7 @@ contact:
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=quocchienn&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=dungnguyen0537&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -165,9 +165,9 @@ contact:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quocchienn/quocchienn/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quocchienn/quocchienn/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quocchienn/quocchienn/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dungnguyen0537/dungnguyen0537/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dungnguyen0537/dungnguyen0537/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dungnguyen0537/dungnguyen0537/output/github-snake.svg" />
   </picture>
 </p>
 
