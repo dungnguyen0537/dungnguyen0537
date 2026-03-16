@@ -36,9 +36,9 @@
 <h2>🚀 About Me</h2>
 
 ```yaml
-name: DShinee.Dev
-location: Nghe An, Vietnam 🇻🇳
-role: iOS Developer | Full-Stack Builder 
+Name: DShinee.Dev
+Location: Nghe An, Vietnam 🇻🇳
+Role: iOS Developer | Full-Stack Builder 
 
 currently_working_on:
   - iOS Jailbreak & Crack Projects
@@ -52,10 +52,10 @@ passions:
   - ☁️ Cloud Infrastructure & DevOps
 
 contact:
-  facebook: dn.12th7
-  telegram: @dshinee0537
-  zalo: "0833685262"
-  blog: dshinee.site
+  Facebook: dn.12th7
+  Telegram: @dshinee0537
+  Zalo: 0833685262
+  Blog: dshinee.site
 ```
 
 <!-- ====== SOCIAL LINKS ====== -->
