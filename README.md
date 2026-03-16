@@ -101,7 +101,7 @@ contact:
 
 <!-- ====== EXTRA SHIELDS.IO BADGES ====== -->
 <details>
-<summary>📋 Full Badge List (click to expand)</summary>
+<summary>📋 Full Badge List</summary>
 <br/>
 <p align="center">
 
@@ -156,30 +156,6 @@ contact:
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=dungnguyen0537&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-<!-- ====== SNAKE ANIMATION ====== -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dungnguyen0537/dungnguyen0537/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dungnguyen0537/dungnguyen0537/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dungnguyen0537/dungnguyen0537/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-<!-- ====== DONATE ====== -->
-<h2 align="center">💰 Support DShinee.Dev</h2>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/quocchienn" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
 </p>
 
 ---
